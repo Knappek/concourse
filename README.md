@@ -1,7 +1,5 @@
 # Concourse
 
-<p>INFO: This is not a final documentation. Everything in here needs to get automated</p>
-
 Here we document everything related to Concourse on Kubernetes. We will document how to provision Concourse on Kubernetes and then we will show how to implement an example pipeline
 that builds a spring boot hello world with maven.
 
